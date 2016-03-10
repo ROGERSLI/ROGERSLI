@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yun-Feng Xiao Research Group</title>
+    <link>http://www.phy.pku.edu.cn/~yfxiao/</link>
+    <description>Recent content on Yun-Feng Xiao Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>COPYRIGHT (C) 2011-2016, PEKING UNIVERSITY. ALL RIGHTS RESERVED. DESIGNED BY ZE-YANG LI</copyright>
+    <lastBuildDate>Wed, 09 Mar 2016 20:11:48 +0800</lastBuildDate>
+    <atom:link href="http://www.phy.pku.edu.cn/~yfxiao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>_index</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/_index/</link>
+      <pubDate>Wed, 09 Mar 2016 20:11:48 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/_index/</guid>
+      <description>&lt;p&gt;Welcome to Yun-Feng Xiao research group at Peking University. This group was established in Feb. 2009, also belonging to the State Key Laboratory for Artificial Microstructure and Mesoscopic Physics. Research in this group is centered around optical microresonators (or namely, microcavities), including both theory and experiment.&lt;/p&gt;
+
+&lt;p&gt;The optical microresonators support whispering gallery modes (WGMs), offer long photon storage times described by ultrahigh Q factors and open a myriad of lab-on-chip applications ranging from fundamental physics to various photonics applications, such as cavity quantum electromagetic dynamics, cavity quantum optomechancis, nonlinear optics, low-threshold microlasing, bio/chemical sensing, and microcomb.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../image/group.jpg&#34; alt=&#34;Oops, wrong&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/news/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;06 / 2014，贝贝与雪峰分别通过博士学位论文答辩，博士论文题目分别为《回音壁模式光学微腔中的拉曼激光与传感应用》(Whispering gallery mode microcavities for Raman lasing and optical sensing)和《超高品质因子非对称光学微腔的实现及其物理特性》(Ultrahigh-Q asymmetric microcavities and their applications)；两人均荣获北京大学优秀毕业生称号；其中雪峰撰写的论文荣获2014年度北京大学优秀博士论文。他们五年的辛苦与汗水，系列的创新成果，无愧这些荣誉。祝贺我们组的两位博士！常回家看看。&lt;/li&gt;
+&lt;li&gt;06 / 2014，溢文顺利通过硕士论文答辩，硕士论文题目是《等离激元-回音壁模式复合微腔及其应用》(Hybrid plasmonic-whispering gallery microcavities and their applications)。溢文将赴University of Maryland继续攻读博士学位。祝贺溢文，我们组的第一个硕士！常回家看看。&lt;/li&gt;
+&lt;li&gt;06 / 2014，梦媛、伟良和林博均顺利通过本科学位答辩，将分别赴斯坦福大学、普林斯顿大学和哈佛大学攻读博士学位。此外，仪襄将赴麻省理工学院攻读博士学位。祝贺你们！常回家看看。&lt;/li&gt;
+&lt;li&gt;04 / 2014，永椿荣获北京大学第十六届研究生“学术十杰”，这是北京大学研究生的崇高荣誉。祝贺永椿！&lt;/li&gt;
+&lt;li&gt;10 / 2013, Yongchun, Xuefeng and Beibei were awarded &amp;ldquo;National scholarship&amp;rdquo;, &amp;ldquo;Leo KoGuan Scholarship&amp;rdquo;, and &amp;ldquo;Chen Huxiong Scholarship&amp;rdquo;. Congratulations!&lt;/li&gt;
+&lt;li&gt;10 / 2013, Yongchun and Xuefeng were awarded &amp;ldquo;Academic Innovation Award&amp;rdquo; of Peking University. Congratulations!&lt;/li&gt;
+&lt;li&gt;08 / 2013, 贝贝在中国光学学会学术大会(湖南长沙)，获得优秀口头报告奖。祝贺贝贝！&lt;/li&gt;
+&lt;li&gt;08 / 2013, We held the “International Workshop on Asymmetric Microcavities and Their Applications.” This workshop was organized by our Ph.D students: Xue-Feng Jiang and Bei-Bei Li. In this workshop, tens of Ph.D students from several Chinese and Japanese universities reported their excellent results in the area. Cheers!&lt;/li&gt;
+&lt;li&gt;07 / 2013, Xuefeng and Yongchun were awarded the Best Comprehensive Performance Prize in National Doctoral Forum of Micro- and Nanophotonics (Nanjing). Congratulations!&lt;/li&gt;
+&lt;li&gt;06 / 2013, Qifan, Mengyuan and Weiliang attended the CUHK-PKU student symposium in Physics held in Hong Kong. Mengyuan won the third prize for her oral presentation. Congratulations!&lt;/li&gt;
+&lt;li&gt;06 / 2013, Yongchun was awarded the &lt;a href = &#34;http://spie.org/Documents/Courses/Education_Outreach/Yong-Chun-Liu-PR-2013.pdf&#34;&gt;SPIE Optics and Photonics Education Scholarship&lt;/a&gt;. Good job, yongchun!&lt;/li&gt;
+&lt;li&gt;05 / 2013, Our institute and our group held &amp;ldquo;The Third International Workshop on Microcavities and Their Applications.&amp;rdquo; This conference was organized by Prof. Qihuang Gong, and Prof. Yun-Feng Xiao at Peking University, Prof. Kyungwon An at Seoul National University, and Prof. Hentschel Martina at Technical University of Ilmenau. During this workshop, more than 20 professors from USA, Germany, France, Korea, Japan and China gave invited talks. Related Links &lt;a href = &#34;http://www.phy.pku.edu.cn/~woma2013/index.html&#34;&gt;WOMA2013&lt;/a&gt;, &lt;a href = &#34;http://www.phy.pku.edu.cn/~optics/news/news_51.html&#34;&gt;PKU-PHY news&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;05 / 2013, 贝贝获得第11届钟盛标博士生论坛三等奖。祝贺贝贝！&lt;/li&gt;
+&lt;li&gt;12 / 2012, 永椿获得2012年度教育部博士研究生学术新人奖(&lt;a href = &#34;http://www.moe.edu.cn/publicfiles/business/htmlfiles/moe/moe_836/201212/146324.html&#34;&gt;Ministry of Education link&lt;/a&gt;, &lt;a href = &#34;http://pkunews.pku.edu.cn/xwzh/2013-01/11/content_263228.htm&#34;&gt;PKU link&lt;/a&gt;)。祝贺永椿！&lt;/li&gt;
+&lt;li&gt;10 / 2012，雪峰、永椿和贝贝分别获得北京大学康宁、方正和光华奖学金。祝贺你们！&lt;/li&gt;
+&lt;li&gt;07 / 2012, Yong-Chun Liu attended the 62nd &lt;a href = &#34;http://www.lindau-nobel.org/&#34;&gt;Lindau Nobel Laureates Meeting&lt;/a&gt; as a Young Researcher (&lt;a href = &#34;http://news.xinhuanet.com/world/2012-07/03/c_112343160.htm&#34;&gt;Xinhuanet link&lt;/a&gt;). Great experience! Congratulations!&lt;/li&gt;
+&lt;li&gt;07 / 2012, 永椿在第15届全国量子光学学术报告会（广州）获得博士生学术论文一等奖。祝贺永椿！&lt;/li&gt;
+&lt;li&gt;05 / 2012, Yong-Chun Liu was awarded the Outstanding Poster Presentation Prize in the 6th International Conference on Nanophotonics (ICNP 2012, Beijing). Congratulations!&lt;/li&gt;
+&lt;li&gt;05 / 2012, 永椿和贝贝分别获得第10届钟盛标博士生论坛二等奖和三等奖。祝贺永椿和贝贝！&lt;/li&gt;
+&lt;li&gt;10 / 2011, 贝贝获得北京大学光华奖学金。祝贺贝贝！&lt;/li&gt;
+&lt;li&gt;11 / 2010, 贝贝获得北京大学佳能奖学金。祝贺贝贝！&lt;/li&gt;
+&lt;li&gt;10 / 2010, 易煦参加了“第七届中国大学生走进日企，感受日本&amp;rdquo;访问团 。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opening</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/opening/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/opening/</guid>
+      <description>
+
+&lt;h2 id=&#34;opportunities-for-postdoctoral-scholar-and-graduate-students:3a9acb5b31e55a8e7ef449f61cd25787&#34;&gt;Opportunities for postdoctoral scholar and graduate students&lt;/h2&gt;
+
+&lt;p&gt;We are looking for self-motivated postdoctoral scholars and graduate students who are interested in studying fundamental optical physics and exploring interesting phenomena in micro/nano-scale photonic devices. We are interested in scholars and students with background in physics, applied physics, electrical engineering, biology and material science. Currently interests of our group are ultra-high-quality optical resonators and their applications for low-threshold lasing, bio/chem sensing, nonlinear optics and quantum information processing. Scholars and students are also encouraged to extend our ultra-high-quality microresonators in more areas.&lt;/p&gt;
+
+&lt;h2 id=&#34;opportunities-for-undergraduate-students:3a9acb5b31e55a8e7ef449f61cd25787&#34;&gt;Opportunities for undergraduate students&lt;/h2&gt;
+
+&lt;p&gt;We welcome undergraduate students who have passion in science and new technology in optics and photonics to join our group. Interesting projects in the areas of microfluidics, sensing, and nano/micro-fabrication are available for undergraduate students.&lt;/p&gt;
+
+&lt;p&gt;Communications should be sent to Professor Yun-Feng Xiao through:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;mailto:yfxiao@pku.edu.cn&#34;&gt;yfxiao[at]pku[dot]edu[dot]cn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/people/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/people/</guid>
+      <description>
+
+&lt;h2 id=&#34;group-leader:409d35e455283866f433512e0ab60fb9&#34;&gt;Group Leader&lt;/h2&gt;
+
+&lt;h3 id=&#34;dr-yun-feng-xiao:409d35e455283866f433512e0ab60fb9&#34;&gt;Dr. Yun-Feng Xiao&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/yfxiao-new.jpg&#34; width=&#34;120&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Associate Professor with tenure&lt;/li&gt;
+&lt;li&gt;B.S.(2002), Ph.D(2007), University of Science and Technology of China&lt;/li&gt;
+&lt;li&gt;Room: West 446, Physics Building, Peking University&lt;/li&gt;
+&lt;li&gt;Phone: 86(10)6276.5512&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:yfxiao@pku.edu.cn&#34;&gt;yfxiao[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;postdoctoral-and-graduate-students:409d35e455283866f433512e0ab60fb9&#34;&gt;Postdoctoral and Graduate Students&lt;/h2&gt;
+
+&lt;h3 id=&#34;yanyan-zhi:409d35e455283866f433512e0ab60fb9&#34;&gt;Yanyan Zhi&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/yanyan.JPG&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Postdoctoral scholar&lt;/li&gt;
+&lt;li&gt;Ph.D., University of Alberta (Canada), 2014&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:yzhi@pku.edu.cn&#34;&gt;yzhi[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;xiao-chong-yu:409d35e455283866f433512e0ab60fb9&#34;&gt;Xiao-Chong Yu,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/xiaochong.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ph.D. candidate 2012&lt;/li&gt;
+&lt;li&gt;B. S., Peking University, 2012&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:yuxc@pku.edu.cn&#34;&gt;yuxc[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;li-wang:409d35e455283866f433512e0ab60fb9&#34;&gt;Li Wang,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/wangli.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ph. D. candidate 2013&lt;/li&gt;
+&lt;li&gt;B. S., Peking University, 2013&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:windwang@pku.edu.cn&#34;&gt;windwang[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;jian-ning-xu:409d35e455283866f433512e0ab60fb9&#34;&gt;Jian-Ning Xu,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/jianning.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ph.D. candidate 2014&lt;/li&gt;
+&lt;li&gt;B. S., Nanjing University, 2014&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:jnxu@pku.edu.cn&#34;&gt;jnxu[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;shui-jing-tang:409d35e455283866f433512e0ab60fb9&#34;&gt;Shui-Jing Tang,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/shuijing.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ph. D. candidate 2015&lt;/li&gt;
+&lt;li&gt;B. S., Wuhan University of Technology, 2015&lt;/li&gt;
+&lt;li&gt;E-mail:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;qi-tao-cao:409d35e455283866f433512e0ab60fb9&#34;&gt;Qi-Tao Cao,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/qitao.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ph.D. candidate 2015&lt;/li&gt;
+&lt;li&gt;B. S., University of Science and Technology of China, 2015&lt;/li&gt;
+&lt;li&gt;E-mail:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;shu-xin-zhang:409d35e455283866f433512e0ab60fb9&#34;&gt;Shu-Xin Zhang,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/shuxin.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Master degree candidate 2014&lt;/li&gt;
+&lt;li&gt;B. S. in School of Physics, Najing University, 2014&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:zsx_op@pku.edu.cn&#34;&gt;zsx_op[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;undergraduates:409d35e455283866f433512e0ab60fb9&#34;&gt;Undergraduates&lt;/h2&gt;
+
+&lt;h3 id=&#34;rui-shan-liu:409d35e455283866f433512e0ab60fb9&#34;&gt;Rui-Shan Liu,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/ruishan.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2012&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail:   &lt;a href = &#34;mailto:liuruishan@pku.edu.cn&#34;&gt;liuruishan[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ao-xue-han:409d35e455283866f433512e0ab60fb9&#34;&gt;Ao-Xue Han,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/girl.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2012&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail:   &lt;a href = &#34;mailto:han_ao_xue@pku.edu.cn&#34;&gt;han_ao_xue[AT]126[DOT]com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;kang-jing-huang:409d35e455283866f433512e0ab60fb9&#34;&gt;Kang-Jing Huang,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/gentleman.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2012&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail:   &lt;a href = &#34;mailto:huangkangjing@gmail.com&#34;&gt;huangkangjing[AT]gmail[DOT]com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;xi-chen:409d35e455283866f433512e0ab60fb9&#34;&gt;Xi Chen,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/gentleman.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2012&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail:   &lt;a href = &#34;mailto:1200011353@pku.edu.cn&#34;&gt;1200011353[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;he-ming-wang:409d35e455283866f433512e0ab60fb9&#34;&gt;He-Ming Wang,&lt;/h3&gt;
+
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/gentleman.jpg&#34; width=&#34;100&#34;/&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2012&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:wangheming@pku.edu.cn&#34;&gt;wangheming[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ze-yang-li:409d35e455283866f433512e0ab60fb9&#34;&gt;Ze-Yang Li,&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2013&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:laser.li@pku.edu.cn&#34;&gt;laser.li[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;pai-peng:409d35e455283866f433512e0ab60fb9&#34;&gt;Pai Peng,&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2013&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;li&gt;E-mail: &lt;a href = &#34;mailto:1300017609@pku.edu.cn&#34;&gt;1300017609[AT]pku[DOT]edu[DOT]cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;si-zhen-wang:409d35e455283866f433512e0ab60fb9&#34;&gt;Si-Zhen Wang,&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2013&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;fei-gao:409d35e455283866f433512e0ab60fb9&#34;&gt;Fei Gao,&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2013&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;yu-xin-wang:409d35e455283866f433512e0ab60fb9&#34;&gt;Yu-Xin Wang,&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Undergraduate 2013&lt;/li&gt;
+&lt;li&gt;School of Physics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;alumni:409d35e455283866f433512e0ab60fb9&#34;&gt;Alumni&lt;/h2&gt;
+
+&lt;p&gt;Yong-Chun Liu &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2010&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, Ph.D. Student&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Principal Investigator &lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Qian Xuesen Laboratory of Space Technology&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bei-Bei Li&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2009&lt;/sub&gt;- &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, Ph.D. Student&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Post-doc&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The University of Queensland&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Xue-Feng Jiang&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2009&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, Ph.D. Student&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Post-doc&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of Oregon&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yi-Wen Hu&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2011&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, Master Student&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of Maryland&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bo-Qiang Shen &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2015&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;California Institute of Technology&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dong-Yu Chen &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2015&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of Southern California&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zhou-Chen Luo &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2015&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of Maryland, College Park&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yu-Feng Shen &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2015&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Carnegie Mellon University&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lin-Bo Shao&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Harvard University&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Meng-Yuan Yan&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Stanford University&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wei-Liang Jin&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt; - &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2014&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Princeton University&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yi-Xiang Liu&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt;- &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;MIT&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;William Clements&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt;- &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;, Visiting student&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Graduate Student&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;M.S. student at École polytechnique, France&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hao-Kun Li&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2011&lt;/sub&gt;- &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2013&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of California, Berkeley&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Xue-Xin Ren&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2011&lt;/sub&gt;- &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2013&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of California, Berkeley&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Qi-Fan Yang&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2011&lt;/sub&gt;- &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2013&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;California Institute of Technology&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Xu Yi&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2009&lt;/sub&gt;- &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2012&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;California Institute of Technology&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Qiu-Shu Chen&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2010&lt;/sub&gt;- &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2012&lt;/sub&gt;, Undergraduate&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ph.D. Candidate 2012&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;University of Michigan]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/publication/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/publication/</guid>
+      <description>
+
+&lt;h1 id=&#34;featured-publications:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;Featured Publications&lt;/h1&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://onlinelibrary.wiley.com/doi/10.1002/adma.201402085/abstract&#34;&gt;Single Nanoparticle Detection and Sizing Using a Nanofiber Pair in an Aqueous Environment&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/nanofiber-sensor.png&#34; width=&#34;200&#34;/&gt;
+&lt;/p&gt;
+Xiao-Chong Yu, Bei-Bei Li (co-first author) et al., Advanced Materials 26(44), 7462-7467 (2014). &lt;i&gt;&lt;font color=&#34;red&#34;&gt;Front cover paper, highlighted&lt;/font&gt; in &lt;a href = &#34;http://www.materialsviews.com/nanofiber-sensor-can-detect-size-single-nanoparticle/&#34;&gt;Materials Views&lt;/a&gt;, &lt;a href = &#34;http://www.azonano.com/news.aspx?newsID=31610&#34;&gt;AZO nano&lt;/a&gt;. &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Optical fiber sensors have been extensively employed in high-sensitivity biosensing, due to their advantages of simple configuration, low cost, label-free property, and remote sensing capability. Over the past few years, it has been demonstrated that when the diameter of fiber is reduced to the scale of optical wavelength, there exists pronounced evanescent field outside the nanofiber, which is very sensitive to the refractive index change of the surrounding medium. In this work, we fabricated a pair of nanofibers with uniform diameter, and placed them into a microfluidic channel. When single nanoparticles in the microfluidic channel are bound to the surface of the nanofibers, the transmitted power shows a significant decrease due to the scattering and absorption of the nanoparticles in the evanescent field. By monitoring the step changes in the transmission of the nanofiber, detection and sizing of nanoparticles with single uniform radius (~ $100$ nm) and of mixed nanoparticles with two different radii ($100$ nm and 170 nm) are both realized. Moreover, by employing plasmonic enhancement, detection of single gold nanorods with much smaller sizes (diameter ~ $16$ nm, length ~ $40$ nm), is also demonstrated. This nanofiber pair can be further extended to an array containing more nanofibers, thus to dramatically increase the sensing speed, which promises a bright future of the nanofiber sensors.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://www.pnas.org/content/111/41/14657.short&#34;&gt;Single nanoparticle detection using split-mode microcavity Raman lasers&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/Raman-laser-sensor.jpg&#34; width=&#34;200&#34;/&gt;
+&lt;/p&gt;
+Bei-Bei Li &lt;i&gt;et al&lt;/i&gt;., PNAS 111(41), 14657-14662 (2014). &lt;i&gt;&lt;font color = &#34;red&#34;&gt;Highlighted in&lt;/font&gt; &lt;a href = &#34;http://phys.org/news/2014-09-physicists-miniature-raman-laser-sensors.html&#34;&gt;Phys. org&lt;/a&gt;, &lt;a href = &#34;http://www.asianscientist.com/2014/10/in-the-lab/mini-raman-lasers-detect-single-nanoparticles/&#34;&gt;Asian Scientist&lt;/a&gt;, and &lt;a href = &#34;http://www.azonano.com/news.aspx?newsID=31196&#34;&gt;AZO nano&lt;/a&gt;. &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Ultrasensitive nanoparticle detection holds great potential for early-stage diagnosis of human diseases and for environmental monitoring. In this work, we report for the first time, to our knowledge, single nanoparticle detection by monitoring the beat frequency of split-mode Raman lasers in high-Q optical microcavities. We first demonstrate this method by controllably transferring single 50-nm–radius nanoparticles to and from the cavity surface using a fiber taper. We then realize real-time detection of single nanoparticles in an aqueous environment, with a record low detection limit of $20$ nm in radius, without using additional techniques for laser noise suppression. Because Raman scattering occurs in most materials under practically any pump wavelength, this Raman laser-based sensing method not only removes the need for doping the microcavity with a gain medium but also loosens the requirement of specific wavelength bands for the pump lasers, thus representing a significant step toward practical microlaser sensors.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.213602&#34;&gt;Coherent Polariton Dynamics in Coupled Highly Dissipative Cavities&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/coupledcavity.png&#34; width=&#34;300&#34;/&gt;
+&lt;/p&gt;
+Yong-Chun Liu &lt;i&gt;et al&lt;/i&gt;., Phys. Rev. Lett. 112(21), 213602 (2014). &lt;i&gt;&lt;font color = &#34;red&#34;&gt;Highlighted in&lt;/font&gt; &lt;a href = &#34;http://phys.org/news/2014-06-surpasses-coherent-interaction-limit.html&#34;&gt;Phys. org&lt;/a&gt;, &lt;a href = &#34;http://www.photonicsonline.com/doc/new-design-surpasses-the-coherent-interaction-limit-0001&#34;&gt;Photonics Online&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;The coherent light-matter interaction at the single-photon and electronic qubit level promises to be a remarkable potential for nonclassical information processing. Besides the efforts of improving the figure of merit of the cavities, here we demonstrate strong anharmonicity in the polariton dressed states via dark state resonances in a highly dissipative cavity. It is shown that the vacuum Rabi oscillation occurs for a single quantum emitter inside a cavity even with the bosonic decay-to-interaction rate ratio exceeding $10^2$, when the photon field is coupled to an auxiliary high-Q cavity. This study provides a promising platform for overcoming decoherence and advancing the coherent manipulation of polariton qubits.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/adma201302572/full&#34;&gt;Detection of Single Nanoparticles and Lentiviruses Using Microcavity Resonance Broadening&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/detecting_1.jpg&#34; width=&#34;200&#34;/&gt;
+&lt;/p&gt;
+Linbo Shao, Xue-Feng Jiang (co-first author) &lt;i&gt;et al&lt;/i&gt;., Advanced Materials 25(39), 5616-5620 (2013). &lt;i&gt;&lt;font color = &#34;red&#34;&gt;Frontispiece paper, Highlighted in&lt;/font&gt; &lt;a href = &#34;http://www.materialsviews.com/new-optical-sensor-can-detect-individual-nanoscale-objects/&#34;&gt;materialsviews.com&lt;/a&gt;, &lt;a href = &#34;http://www.materialsviewschina.com/2013/09/new-optical-sensor-can-detect-a-single-nanoscale-objects/&#34;&gt;materialsviewschina.com&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;A new label-free sensing mechanism is demonstrated experimentally by monitoring the whispering-gallery mode broadening in microcavities. It is immune to both noise from the probe laser and environmental disturbances, and is able to remove the strict requirement for ultra-high-Q mode cavities for sensitive nanoparticle detection. This ability to sense nanoscale objects and biological analytes is particularly crucial for wide applications.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://prl.aps.org/abstract/PRL/v111/i8/e083601&#34;&gt;Parametric Down-Conversion and Polariton Pair Generation in Optomechanical Systems&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/parametric.jpg&#34; width=&#34;300&#34;/&gt;
+&lt;/p&gt;
+Yong-Chun Liu &lt;i&gt;et al&lt;/i&gt;., Phys. Rev. Lett. 111(8), 083601 (2013).&lt;/p&gt;
+
+&lt;p&gt;We demonstrate that the nonlinear optomechanical interaction leads to parametric down-conversion, capable of generating polariton pairs formed by photons and phonons. The nonlinearity is resonantly enhanced through frequency matching, and such parametric down-conversion does not require the stringent condition that the single-photon optomechanical coupling strength g be on the order of the mechanical resonance frequency ωm. We provide analytical results for the frequency matching condition and derive the nonlinear coefficient. Numerical simulations on polariton pair generation are presented, showing that photon like polaritons, phononlike polaritons, and mixed photon-phonon polaritons can be selectively generated. Such nonlinear interaction offers a promising way for harnessing the optomechanical nonlinearity to manipulate photons and phonons.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://onlinelibrary.wiley.com/doi/10.1002/lpor.201300042/abstract&#34;&gt;Tunneling-induced transparency in a chaotic microcavity&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/cover2.jpg&#34; width=&#34;200&#34;/&gt;
+&lt;/p&gt;
+Yun-Feng Xiao*&lt;i&gt;et al&lt;/i&gt;., Laser &amp;amp; Photonics Reviews 7(5), L51-L54 (2013). Back inside cover paper, Highlighted in materialsviews.com&lt;/p&gt;
+
+&lt;p&gt;A new form of induced transparency enabled by dynamical tunneling coupling of continuous chaos and discrete regular modes in a slightly deformed optical microcavity is demonstrated experimentally. An optical beam is focused on the cavity boundary and tuned on resonance with a high-Q mode, which leads to destructive interference for the excitation of chaotic field and induces a transparency in the transmission. The experimental results are in excellent agreement with a model based on quantum scattering theory. This tunneling-induced transparency is accompanied by extremely steep normal dispersion, and holds great potential in slow light and enhanced nonlinear interactions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://prl.aps.org/abstract/PRL/v110/i15/e153606&#34;&gt;Dynamic Dissipative Cooling of a Mechanical Resonator in Strong Coupling Optomechanics&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/dynamic.jpg&#34; width=&#34;190&#34;/&gt;
+&lt;/p&gt;
+Yong-Chun Liu &lt;i&gt;et al&lt;/i&gt;., Phys. Rev. Lett. 110(15), 153606 (2013).&lt;/p&gt;
+
+&lt;p&gt;Cooling of mesoscopic mechanical resonators represents a primary concern in cavity optomechanics. In this Letter, in the strong optomechanical coupling regime, we propose to dynamically control the cavity dissipation, which is able to significantly accelerate the cooling process while strongly suppressing the heating noise. Furthermore, the dynamic control is capable of overcoming quantum backaction and reducing the cooling limit by several orders of magnitude. The dynamic dissipation control provides new insights for tailoring the optomechanical interaction and offers the prospect of exploring mesoscopic quantum physics.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://onlinelibrary.wiley.com/doi/10.1002/adma.201201229/full&#34;&gt;Highly unidirectional emission and ultralow-threshold lasing from on-chip ultrahigh-Q microcavities&lt;/a&gt;&lt;/font&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/cover1.jpg&#34; width=&#34;190&#34;/&gt;
+&lt;/p&gt;
+Xue-Feng Jiang &lt;i&gt;et al&lt;/i&gt;., Advanced Materials, 24(35), OP260 (2012). &lt;i&gt;&lt;font color = &#34;red&#34;&gt;Highlighted in&lt;/font&gt; &lt;a href = &#34;http://www.materialsviews.com/highly-unidirectional-emission-from-ultrahigh-q-microcavities/&#34;&gt;materialsviews.com&lt;/a&gt;, &lt;a href = &#34;http://onlinelibrary.wiley.com/doi/10.1002/opph.201290108/abstract&#34;&gt;Optik &amp;amp; Photonik&lt;/a&gt;, &lt;font color = &#34;red&#34;&gt;and&lt;/font&gt; &lt;a href = &#34;http://www.osa-opn.org/opn/media/Images/PDF/2013/0113/18-20-Global-Jan-2.pdf?ext=.pdf&#34;&gt;Optics and Photonics News&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Ultrahigh-Q optical whispering gallery microcavities are promising platforms for fundamental studies and applied photonics. A new type of on-chip microcavity is experimentally realized, which supports both highly unidirectional emission and ultra-high-Q factors exceeding $100$ million in near infrared. By doping erbium, the unidirectional-emission lasing is observed in $1550$ nm band with the threshold as low as $2\mu$W.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://pra.aps.org/abstract/PRA/v85/i3/e031805&#34;&gt;Strongly enhanced light-matter interaction in a hybrid photonic-plasmonic resonator&lt;/font&gt;&lt;/a&gt;
+&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;../image/prav85i0301.png&#34; width=&#34;190&#34;/&gt;
+&lt;/p&gt;
+Yun-Feng Xiao* &lt;i&gt;et al&lt;/i&gt;., Phys. Rev. A 85(3), 031805&amp;reg; (2012). &amp;ldquo;Rapid Communications&amp;rdquo;. &lt;i&gt;&lt;font color = &#34;red&#34;&gt;One figure from this work was selected by journal web site of Physical Review A as part of “&lt;a href = &#34;http://pra.aps.org/kaleidoscope/pra/85/3/031805&#34;&gt;Kaleidoscope&lt;/a&gt;”&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;We propose a hybrid photonic-plasmonic resonant structure which consists of a metal nanoparticle (MNP) and a whispering-gallery-mode (WGM) microcavity. It is found that the hybrid mode enables a strong interaction between the light and matter, and the single-atom cooperativity is enhanced by more than two orders of magnitude compared to that in a bare WGM microcavity. This improvement originates from two aspects: the MNP offers a highly enhanced local field in the vicinity of an emitter, and, interestingly, the high-Q property of WGMs can be maintained in the presence of the MNP. Thus the present system has advantages over a single microcavity or a single MNP, and holds potential in quantum optics, nonlinear optics, and highly sensitive biosensing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;font size = &#34;5&#34;&gt;&lt;a href = &#34;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.105.153902&#34;&gt;High- Q Exterior Whispering-Gallery Modes in a Metal-Coated Microresonator&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;Yun-Feng Xiao* &lt;i&gt;et al&lt;/i&gt;., Phys. Rev. Lett. 105(15), 153902 (2010). &lt;i&gt;&lt;font color = &#34;red&#34;&gt;Highlighted in&lt;/font&gt; &lt;a href = &#34;http://www.osa-opn.org/home/articles/volume_22/issue_9/features/integrated_photonics_research_in_china/&#34;&gt;Optics and Photonics News&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;We propose a kind of plasmonic whispering-gallery mode highly localized on the exterior surface of a metal-coated microresonator. This exterior (EX) surface mode possesses high quality factors at room temperature, and can be efficiently excited by a tapered fiber. The EX mode can couple to an interior (IN) mode and this coupling produces a strong anticrossing behavior, which not only allows conversion of IN to EX modes, but also forms a long-lived antisymmetric mode. As a potential application, the EX mode could be used for a biosensor with a sensitivity high of up to $500$ nm per refraction index unit, a large figure of merit, and a wide detection range.&lt;/p&gt;
+
+&lt;h1 id=&#34;paper-archive:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;Paper Archive&lt;/h1&gt;
+
+&lt;h2 id=&#34;2016:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2016&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+&lt;li&gt;
+&lt;div align=&#34;justify&#34;&gt;Xue-Feng Jiang, Chang-Ling Zou, Li Wang, Qihuang Gong, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/lpor.201500163/abstract&#34;&gt;Whispering-gallery microcavities with unidirectional laser emission&lt;/a&gt;,&amp;quot; Laser &amp;amp; Photonics Review 10(1), 40-61 (2016). &lt;span class=&#34;STYLE8&#34;&gt;&lt;em&gt;Front cover paper, invited review &lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div align=&#34;justify&#34;&gt;Bo-Qiang Shen, Xiao-Chong Yu, Yanyan Zhi, Li Wang, Donghyun Kim, Qihuang Gong, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.5.024011&#34;&gt;Detection of Single Nanoparticles Using the Dissipative Interaction in a High-Q Microcavity&lt;/a&gt;,&amp;quot; Phys. Rev. Applied 5, 024011 (2016). &lt;span class=&#34;STYLE8&#34;&gt;&lt;em&gt;Highlighted in &lt;a href=&#34;http://english.pku.edu.cn/News_Events/News/Research/11642.htm&#34;&gt;&lt;/a&gt;&lt;/em&gt;&lt;em&gt;&lt;a href=&#34;http://phys.org/news/2016-03-whispering-gallery-type-sensor-nanoparticle.html&#34;&gt;Phys. org&lt;/a&gt;, &lt;a href=&#34;http://www.nanowerk.com/nanotechnology-news/newsid=42794.php&#34;&gt;nanowerk&lt;/a&gt;, &lt;a href=&#34;http://www.cemag.us/news/2016/03/whispering-gallery-type-sensor-detects-single-nanoparticles&#34;&gt;Controlled Environments, &lt;/a&gt;and &lt;a href=&#34;http://www.nanotechnologyworld.org/#!Novel-whisperinggallerytype-sensor-for-single-nanoparticle-detection/c89r/56dd774a0cf2e25c77e83ce0&#34;&gt;nanotechnology world association &lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2015:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2015&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div align=&#34;justify&#34;&gt;Pan Wang, Yipei Wang, Zongyin Yang, Xin Guo, Xing Lin, Xiao-Chong Yu, Yun-Feng Xiao, Wei Fang, Lei Zhang, Guowei Lu, Qihuang Gong, and Limin Tong, &amp;quot;&lt;a href=&#34;http://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.5b03330&#34;&gt;Single-Band 2-nm-Line-Width Plasmon Resonance in a Strongly Coupled Au Nanorod&lt;/a&gt;,&amp;quot; Nano Lett. 15, 7581-7586 (2015) &lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div align=&#34;justify&#34;&gt;Xi Chen, Yong-Chun Liu, Pai Peng, Yanyan Zhi, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.033841&#34;&gt;Cooling of macroscopic mechanical resonators in hybrid atom-optomechanical systems&lt;/a&gt;,&amp;quot; Phys. Rev. A 92(3), 033841 (2015).&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yun-Feng Xiao*; Xing-Sheng Luan, and Chee Wei Wong*, &amp;quot;&lt;a href=&#34;http://phys.scichina.com:8083/sciGe/EN/abstract/abstract509634.shtml&#34;&gt;Optomechanically-induced-transparency cooling of massive mechanical resonators to the quantum ground state&lt;/a&gt;,&amp;quot; Science China 58(5), 050305 (2015).&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Rui-Shan Liu, Wei-Liang Jin, Xiao-Chong Yu, Yong-Chun Liu, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.043836&#34;&gt;Enhanced Raman scattering of single nanoparticles in a high-Q whispering-gallery microresonator&lt;/a&gt;,&amp;quot; Phys. Rev. A 91(4), 043836 (2015).&lt;/div&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yun-Feng Xiao*, Xingsheng Luan, Qihuang Gong, and Chee Wei Wong*, &amp;quot;&lt;a href=&#34;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.033818&#34;&gt;Coupled cavities for motional ground-state cooling and strong optomechanical coupling&lt;/a&gt;,&amp;quot; Phys. Rev. A 91(3), 033818 (2015).&lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Rui-Shan Liu, Chun-Hua Dong, Yan Li, Qihuang Gong, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.013824&#34;&gt;Cooling mechanical resonators to the quantum ground state from room temperature&lt;/a&gt;,&amp;quot; Phys. Rev. A 91(1), 013824  (2015).&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;William R. Clements, Bei-Bei Li, Bo-Qiang Shen, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://www.pnas.org/content/111/41/14657.short&#34;&gt;Raman-lasing dynamics in split-mode microresonators&lt;/a&gt;,&amp;quot;Phys. Rev. A 91(1), 013804 (2015).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;h2 id=&#34;2014:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2014&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+  &lt;li&gt;Zhou-Chen Luo, Cao-Yuan Ma, Bei-Bei Li, and Yun-Feng Xiao, &lt;a href=&#34;http://scitation.aip.org/content/aip/journal/adva/4/12/10.1063/1.4903317&#34;&gt;&amp;quot;MHz-level self-sustained pulsation in polymer microspheres on a chip&lt;/a&gt;,&amp;quot; AIP Advance 4, 122902 (2014). &lt;span class=&#34;STYLE8&#34;&gt;&lt;em&gt;Invited paper&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Bei-Bei Li, William R. Clements, Xiao-Chong Yu, Kebin Shi, Qihuang Gong, and Yun-Feng Xiao, &lt;a href=&#34;http://www.pnas.org/content/111/41/14657.short&#34;&gt;&amp;quot;Single nanoparticle detection using split-mode microcavity Raman lasers&lt;/a&gt;,&amp;quot; PNAS 111(41), 14657-14662 (2014). &lt;span class=&#34;STYLE8&#34;&gt;&lt;em&gt;Highlighted in &lt;a href=&#34;http://english.pku.edu.cn/News_Events/News/Research/11642.htm&#34;&gt;&lt;/a&gt;&lt;/em&gt;&lt;em&gt;&lt;a href=&#34;http://phys.org/news/2014-09-physicists-miniature-raman-laser-sensors.html&#34;&gt;Phys. org&lt;/a&gt;, &lt;a href=&#34;http://www.asianscientist.com/2014/10/in-the-lab/mini-raman-lasers-detect-single-nanoparticles/&#34;&gt;Asian Scientist&lt;/a&gt;, and &lt;a href=&#34;http://www.azonano.com/news.aspx?newsID=31196&#34;&gt;AZO nano&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;Yuwen Hu, Linbo Shao, Stephen Arnold, Yong-Chun Liu, Cao-Yuan Ma, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.90.043847&#34;&gt;Mode broadening induced by nanoparticles in an optical whispering-gallery microcavity&lt;/a&gt;,&amp;quot; Phys. Rev. A 90(5), 043847 (2014). &lt;em&gt;One figure from this work  was selected by journal web site of Physical Review A as part of &#34;&lt;a href=&#34;http://journals.aps.org/pra/kaleidoscope/pra/90/4/043847&#34; &gt;Kaleidoscope&lt;/a&gt;&#34;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Xiao-Chong Yu, Bei-Bei  Li, Pan Wang, Limin Tong, Xue-Feng Jiang, Yan Li, Qihuang Gong, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/adma.201402085/abstract&#34;&gt;Single Nanoparticle  Detection and Sizing Using a Nanofiber Pair in Aqueous Environment&lt;/a&gt;,&amp;quot; Advanced Materials 26(44), 7462-7467 (2014). &lt;span class=&#34;STYLE8&#34;&gt;&lt;em&gt;Front cover paper, highlighted in &lt;a href=&#34;http://www.materialsviews.com/nanofiber-sensor-can-detect-size-single-nanoparticle/&#34;&gt;Materials Views&lt;/a&gt;, &lt;a href=&#34;http://www.azonano.com/news.aspx?newsID=31610&#34;&gt;AZO nano&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Xingsheng Luan, Hao-Kun Li, Qihuang Gong, Chee Wei Wong, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.213602&#34;&gt;Coherent polariton dynamics in coupled highly-dissipative cavity quantum electrodynamics&lt;/a&gt;,&amp;quot;Phys. Rev. Lett. 112(21), 213602 (2014).&lt;span class=&#34;STYLE8&#34;&gt; &lt;em&gt;Highlighted in&lt;/em&gt;&lt;/span&gt;&lt;em&gt; &lt;span class=&#34;STYLE8&#34;&gt;&lt;a href=&#34;http://www.photonicsonline.com/doc/new-design-surpasses-the-coherent-interaction-limit-0001&#34;&gt;Phys. org&lt;/a&gt;,&lt;a href=&#34;http://www.photonicsonline.com/doc/new-design-surpasses-the-coherent-interaction-limit-0001&#34;&gt; Photonics Online &lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yu-Feng Shen, Qihuang Gong, and Yun-Feng Xiao*, &amp;quot;&lt;a href=&#34;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.89.053821&#34;&gt;Optimal limits of cavity optomechanical cooling in the strong-coupling regime&lt;/a&gt;,&amp;quot; Phys. Rev. A 89(5), 053821 (2014).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;h2 id=&#34;2013:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2013&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+&lt;li&gt;
+  &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yu-Wen Hu,  Chee Wei Wong, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/1674-1056/22/11/114213&#34;&gt;Review of cavity optomechanical cooling&lt;/a&gt;,&amp;quot; Chin. Phys. B  22(11), 114213 (2013).&lt;/div&gt;
+&lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Hao-Kun Li, Xue-Xin Ren, Yong-Chun Liu, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v88/i5/e053850&#34;&gt;Photon-photon interactions in a largely detuned optomechanical cavity&lt;/a&gt;,&amp;quot; Phys. Rev. A 88, 053850 (2013).&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yi-Wen Hu, Yun-Feng Xiao*, Yong-Chun Liu, and Qihuang Gong, &amp;quot;&lt;a href=&#34;http://link.springer.com/article/10.1007%2Fs11467-013-0384-y&#34;&gt;Optomechanical sensing with on-chip microcavities&lt;/a&gt;,&amp;quot; Front. Phys. 8(5), 475-490 (2013). Review Article, &lt;span class=&#34;STYLE8&#34;&gt;��ף������ѧ��������ר��&lt;/span&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xue-Feng Jiang, Yun-Feng Xiao*, Qi-Fan Yang, Linbo Shao, William R. Clements, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v103/i10/p101102_s1&#34;&gt;Free-space coupled,      ultralow-threshold Raman lasing from a silica microcavity&lt;/a&gt;,&amp;quot; Appl. Phys.  Lett. 103(10), 101102 (2013). &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+  &lt;div align=&#34;justify&#34;&gt;
+    &lt;div name=&#34;coden=APPLAB&amp;amp;volume=103&amp;amp;issue=12&amp;amp;pg=121102&amp;amp;seqno=1&#34; sizcache=&#34;20&#34; sizset=&#34;20&#34;&gt;&lt;span jquery1379636054069=&#34;3&#34;&gt;Linbo Shao&lt;/span&gt;, &lt;span jquery1379636054069=&#34;4&#34;&gt;Li   Wang&lt;/span&gt;, &lt;span jquery1379636054069=&#34;5&#34;&gt;Wenjie Xiong&lt;/span&gt;, &lt;span jquery1379636054069=&#34;6&#34;&gt;Xue-Feng   Jiang&lt;/span&gt;, &lt;span jquery1379636054069=&#34;7&#34;&gt;Qi-Fan Yang&lt;/span&gt;, and &lt;span jquery1379636054069=&#34;8&#34;&gt;Yun-Feng   Xiao&lt;/span&gt;, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v103/i12/p121102_s1&#34;&gt;Ultrahigh-Q, largely deformed microcavities coupled by a free-space laser   beam&lt;/a&gt;,&amp;quot; Appl. Phys.  Lett. 103(12), 121102 (2013).&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/li&gt;
+&lt;li&gt;
+  &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yun-Feng Xiao*, You-Ling Chen, Xiao-Chong Yu, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://prl.aps.org/abstract/PRL/v111/i8/e083601&#34;&gt;Parametric Down-Conversion and Polariton Pair Generation in Optomechanical Systems&lt;/a&gt;,&amp;quot; Phys. Rev. Lett. 111(8), 083601 (2013).&lt;/div&gt;
+  &lt;/li&gt;
+&lt;li&gt;
+  &lt;div align=&#34;justify&#34;&gt;Linbo Shao, Xue-Feng Jiang, Xiao-Chong Yu, Bei-Bei Li, William R. Clements, Frank Vollmer, Wei Wang, Yun-Feng Xiao*, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/adma201302572/full&#34;&gt;Detection of Single Nanoparticles and Lentiviruses Using Microcavity Resonance Broadening&lt;/a&gt;,&amp;quot; Advanced Materials 25(39), 5616-5620 (2013). &lt;em&gt;&lt;span style=&#34;color:#FF0000&#34;&gt;Frontispiece paper, highlighted in &lt;a href=&#34;http://www.materialsviews.com/new-optical-sensor-can-detect-individual-nanoscale-objects/&#34;&gt;Materials Views&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;, &lt;a href=&#34;http://www.materialsviewschina.com/2013/09/new-optical-sensor-can-detect-a-single-nanoscale-objects/&#34;&gt;&lt;em&gt;Materials Views China&lt;/em&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+  &lt;div align=&#34;justify&#34;&gt;Qi-Fan Yang, Xue-Feng Jiang, Ya-Long Cui, Linbo Shao, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v88/i2/e023810&#34;&gt;Dynamical tunneling-assisted coupling of high-Q deformed microcavities using a free-space beam&lt;/a&gt;,&amp;quot; Phys. Rev. A 88(2), 023810 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+&lt;li&gt;
+  &lt;div align=&#34;justify&#34;&gt;Meng-Yuan Yan, Hao-Kun Li, Yong-Chun Liu, Wei-Liang Jin, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v88/i2/e023802&#34;&gt;Dissipative optomechanical coupling between a single-wall carbon nanotube and a high-Q microcavity&lt;/a&gt;,&amp;quot; Phys. Rev. A 88(02), 023802 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Xue-Feng Jiang, Qi-Fan Yang, Li Wang, Kebin Shi, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/lpor.201300042/abstract&#34;&gt;Tunneling-induced transparency in a chaotic microcavity&lt;/a&gt;,&amp;quot; Laser Photonics Reviews 7(5), L51-L54 (2013). &lt;em&gt;&lt;span style=&#34;color:#FF0000&#34;&gt;&lt;span class=&#34;STYLE9&#34;&gt;Back inside cover paper, &lt;/span&gt;highlighted in &lt;/span&gt;&lt;a href=&#34;http://www.materialsviews.com/tunnelling-induced-transparency-in-a-chaotic-microcavity/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=tunnelling-induced-transparency-in-a-chaotic-microcavity&#34;&gt;Materials Views&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Bei-Bei  Li, Yun-Feng Xiao*, Meng-Yuan Yan, William R. Clements, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/ol/abstract.cfm?URI=ol-38-11-1802&#34;&gt;Low-threshold  Raman laser from an  on-chip, high-&lt;em&gt;Q&lt;/em&gt;, polymer-coated microcavity&lt;/a&gt;,&amp;quot; Opt. Lett. 38(11), 1802-1804 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong-Chun  Liu, Yun-Feng Xiao*; Xingsheng Luan,  Chee Wei Wong*, ��&lt;a href=&#34;http://prl.aps.org/abstract/PRL/v110/i15/e153606&#34;&gt;Dynamic Dissipative Cooling of a Mechanical Resonator in  Strong Coupling Optomechanics&lt;/a&gt;,�� Phys. Rev. Lett. 110(15), 153606 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xue-Xin Ren, Hao-Kun Li, Meng-Yuan Yan, Yong-Chun Liu, Yun-Feng Xiao,* and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v87/i3/e033807&#34;&gt;Single-photon transport and mechanical NOON-state generation in microcavity optomechanics&lt;/a&gt;,&amp;quot; Phys. Rev. A 87(3), 033807 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Jin-Ming Cui, Chun-Hua Dong, Chang-Ling Zou, Fang-Wen Sun*, Yun-Feng Xiao, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/ao/abstract.cfm?URI=ao-52-2-298&#34;&gt;Controlling deformation in a high quality factor silica microsphere toward single directional emission&lt;/a&gt;,&amp;quot; Appl. Opt. 52(2), 298-301 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yi-Wen Hu, Bei-Bei Li, Yi-Xiang Liu, Yun-Feng Xiao*, Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0030401812012965&#34;&gt;Hybrid photonic-plasmonic mode for refractometer and nanoparticle trapping&lt;/a&gt;,&amp;quot; Opt. Comm. 291, 380-385 (2013). &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Wei-Liang Jin, Xu Yi, Yi-Wen Hu, Bei-Bei Li, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/ao/abstract.cfm?URI=ao-52-2-155&#34;&gt;Temperature-insensitive detection of low-concentration nanoparticles using a functionalized high-Q microcavity&lt;/a&gt;,&amp;quot; Appl. Opt. 52(2), 155-161 (2013).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;h2 id=&#34;2012:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2012&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xiao-Chong Yu, Yong-Chun Liu, Meng-Yuan Yan, Wei-Liang Jin, and Yun-Feng Xiao, &lt;a href=&#34;http://pra.aps.org/abstract/PRA/v86/i4/e043833&#34;&gt;&amp;quot;Coupling of diamond nanocrystals to a high-Q whispering-gallery microresonator&lt;/a&gt;,&amp;quot; Phys. Rev. A 86(4), 043833 (2012).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xue-Feng Jiang, Yun-Feng Xiao*, Chang-Ling Zou, Lina He, Chun-Hua Dong,  Bei-Bei Li, Yan Li, Fang-Wen Sun, Lan Yang, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/adma.201201229/full&#34;&gt;Highly unidirectional emission and ultralow-threshold lasing from on-chip ultrahigh-Q microcavities&lt;/a&gt;,&amp;quot; Advanced Materials 24(35), OP260 (2012).&lt;em&gt; &lt;span  style=&#34;color:#FF0000&#34;&gt;Highlighted in &lt;a href=&#34;http://www.materialsviews.com/highly-unidirectional-emission-from-ultrahigh-q-microcavities/&#34;&gt;Materials Views,&lt;/a&gt; &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/opph.201290108/abstract&#34;&gt;Optik  &amp;amp; Photonik&lt;/a&gt;, and &lt;a href=&#34;http://www.osa-opn.org/opn/media/Images/PDF/2013/0113/18-20-Global-Jan-2.pdf?ext=.pdf&#34;&gt;Optics  and Photonics News&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xu Yi, Yun-Feng Xiao*, Yin Feng, Dong-Ying Qiu, Jing-Yi Fan, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://jap.aip.org/resource/1/japiau/v111/i11/p114702_s1?isAuthorized=no&#34;&gt;Mode-splitting-based optical label-free biosensing with a biorecognition-covered microcavity&lt;/a&gt;,&amp;quot; J.  Appl. Phys. 111(11), 114702 (2012).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Hao-Kun Li, Yong-Chun Liu, Xu Yi, Chang-Ling Zou, Xue-Xin Ren, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v85/i5/e053832&#34;&gt;Proposal for a near-field optomechanical system with enhanced linear and quadratic coupling&lt;/a&gt;,&amp;quot; Phys. Rev. A 85(5), 053832 (2012).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Yong-Chun Liu*, Bei-Bei Li, You-Ling Chen, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v85/i3/e031805&#34;&gt;Strongly enhanced light-matter interaction in a hybrid photonic-plasmonic resonator&lt;/a&gt;,&amp;quot; Phys. Rev. A 85(3), 031805(R) (2012). &lt;span style=&#34;color:#FF0000&#34;&gt;&lt;em&gt;&amp;quot;Rapid Communications&amp;quot;. One figure from this work  was selected by journal web site of Physical Review A as part of ��&lt;a href=&#34;http://pra.aps.org/kaleidoscope/pra/85/3/031805&#34;&gt;Kaleidoscope&lt;/a&gt;��&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Chang-Ling Zou, Fang-Wen Sun, Chun-Hua Dong, Yun-Feng Xiao, Xi-Feng Ren, Liu Lv, Xiang-Dong Chen, Jin-Ming Cui, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&amp;amp;arnumber=6125981&#34;&gt;Movable Fiber-Integrated Hybrid Plasmonic Waveguide on Metal Film&lt;/a&gt;,&amp;quot; IEEE Photon. Tech. Lett. 24(6), 434-436 (2012). &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Bei-Bei Li, Yun-Feng Xiao*, Chang-Ling Zou, Xue-Feng Jiang, Yong-Chun Liu, Fang-Wen Sun, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v100/i2/p021108_s1&#34;&gt;Experimental controlling of Fano resonance in indirectly coupled whispering-gallery microresonators&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 100(02), 021108 (2012).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yun-Feng Xiao*, Xue-Feng Jiang, Bei-Bei Li, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v85/i1/e013843&#34;&gt;Cavity-QED treatment of scattering-induced free-space excitation and collection in high-Q whispering-gallery microcavities&lt;/a&gt;,&amp;quot; Phys. Rev. A. 85(01), 013843 (2012).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;h2 id=&#34;2011:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2011&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Chang-Ling Zou, Yi-Wen Hu, Yan Li, Lixin Xiao, Fang-Wen Sun, and Qihuang Gong*, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5783497&#34;&gt;&amp;quot;Broadband Enhancement of Light Harvesting in a Luminescent Solar Concentrator&lt;/a&gt;,&amp;quot; IEEE Journal of Quantum Electronics 47(9), 1171 (2011).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong-Chun Liu, Yun-Feng Xiao*, Bei-Bei Li, Xue-Feng Jiang, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v84/i1/e011805&#34;&gt;Coupling of a Single Diamond Nanocrystal to a Whispering-Gallery Microcavity: Photon Transportation Benefitting from Rayleigh Scattering&lt;/a&gt;,&amp;quot; Phys. Rev. A 84, 011805(R) (2011). &lt;span style=&#34;color:#FF0000&#34;&gt;&lt;em&gt; &amp;quot;Rapid Communications&amp;quot;&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Fang-Jie Shu, Chang-Ling Zou, Fang-Wen Sun, and Yun-Feng Xiao, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v83/i5/e053835&#34;&gt;Mechanism of directional emission from a peanut-shaped microcavity&lt;/a&gt;,&amp;quot; Phys. Rev. A 83(05), 053835 (2011).&lt;span style=&#34;color:#FF0000&#34;&gt;&lt;em&gt; One figure from this work  was selected by journal web site of Physical Review A as part of &amp;quot;&lt;a href=&#34;http://pra.aps.org/kaleidoscope/pra/83/5/053835&#34;&gt;Kaleidoscope&lt;/a&gt;��&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xu Yi, Yun-Feng Xiao*, Yong-Chun Liu, Bei-Bei Li, You-Ling Chen, Yan Li,  and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v83/i2/e023803&#34;&gt;Multiple-Rayleigh-scatterer-induced mode splitting in a  high-Q whispering-gallery-mode microresonator&lt;/a&gt;,&amp;quot; Phys. Rev. A 83(02), 023803  (2011).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Bei-Bei Li, Yun-Feng Xiao*, Chang-Ling Zou, Yong-Chun Liu, Xue-Feng Jiang, You-Ling Chen, Yan Li, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v98/i2/p021116_s1&#34;&gt;Experimental observation of Fano resonance in a single whispering-gallery microresonator&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 98 (02), 021116 (2011).&lt;/div&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2010:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2010&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Min Li, Yong-Chun Liu, Yan Li, Xiudong Sun*, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v82/i6/e065804&#34;&gt;Asymmetric Fano resonance analysis in indirectly coupled microresonators&lt;/a&gt;,&amp;quot; Phys. Rev. A 82 (6), 065804 (2010)&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Xu Yi, Yun-Feng Xiao*, Yan Li, Yong-Chun Liu, Bei-Bei Li, Zhao-Pei Liu, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v97/i20/p203705_s1&#34;&gt;Polarization-dependent detection of cylinder nanoparticles with mode splitting in a high-Q whispering-gallery microresonator&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 97(20), 203705 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Chang-Ling Zou, Fang-Wen Sun, Yun-Feng Xiao, Chun-Hua Dong, Xiang-Dong Chen, Jin-Ming Cui, Qihuang Gong, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v97/i18/p183102_s1&#34;&gt;Plasmon modes of silver nanowire on a silica substrate&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 97(18), 183102 (2010). &amp;quot;monthly top 20 most-downloaded articles&amp;quot;&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Chang-Ling Zou, Bei-Bei Li, Yan Li, Chun-Hua Dong, Zheng-Fu Han, and Qihuang Gong*, &amp;quot;&lt;a href=&#34;http://prl.aps.org/abstract/PRL/v105/i15/e153902&#34;&gt;High-Q exterior whispering gallery modes in a metal-coated microresonator&lt;/a&gt;,&amp;quot; Phys. Rev. Lett., 105(15), 153902 (2010). &lt;span style=&#34;color:#FF0000&#34;&gt;&lt;em&gt;Highlighted in &lt;a href=&#34;http://www.osa-opn.org/home/articles/volume_22/issue_9/features/integrated_photonics_research_in_china/&#34;&gt;Optics  and Photonics News&lt;/a&gt;; ��ѡ��2010�й���ѧ��Ҫ�ɹ���&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Lina He,  Sahin Kaya Ozdemir, Yun-Feng Xiao, and Lan Yang, &amp;quot;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5565349&#34;&gt;Gain-Induced Evolution of Mode Splitting Spectra in a High-Q Active Microresonator&lt;/a&gt;,&amp;quot; IEEE JOURNAL OF QUANTUM ELECTRONICS 46(11), 1626 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Bei-Bei Li, Qing-Yan Wang, Yun-Feng Xiao*, Xue-Feng Jiang, Yan Li, Lixin Xiao, and Qihuang Gong, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v96/i25/p251109_s1&#34;&gt;On chip, high-sensitivity thermal sensor based on high-Q polydimethylsiloxane-coated microresonator&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 96(25), 251109 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Chang-Ling Zou, Peng Xue, Lixin Xiao, Yan Li, Chun-Hua Dong, Zheng-Fu Han, and Qihuang Gong, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v81/i5/e053807&#34;&gt;Quantum electrodynamics in a whispering-gallery microcavity coated with a polymer nanolayer&lt;/a&gt;,&amp;quot; Phys. Rev. A 81(5), 053807 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Bei-Bei Li, X.  Jiang, Xiaoyong Hu, Yan Li, and Qihuang Gong, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/0953-4075/43/3/035402&#34;&gt;High quality factor, small mode  volume, ring-type plasmonic microresonator on a silver chip&lt;/a&gt;,&amp;quot; J. Phys. B: At.  Mol. Opt. Phys. 43, 035402 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Yan Li and  Qihuang Gong; Chang-Ling Zou, Chun-Hua Dong and Zheng-Fu Han, &amp;quot;&lt;a href=&#34;http://link.springer.com/article/10.1007/s12200-010-0003-2&#34;&gt;Asymmetric  resonant cavities and their applications in optics and photonics: a review&lt;/a&gt;,&amp;quot;  Frontiers of Optoelectronics in China 3(2), 109-124 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Chang-Ling Zou,  Yun-Feng Xiao, Zheng-Fu Han, Chun-Hua Dong, Xiang-Dong Chen, Jin-Ming Cui,  Guang-Can Guo, and Fang-Wen Sun, &amp;quot; &lt;a href=&#34;http://www.opticsinfobase.org/josab/abstract.cfm?URI=josab-27-12-2495&#34;&gt;High-Q nanoring surface plasmon microresonator&lt;/a&gt;,&amp;quot; J. Opt. Soc. Am. B 27(12), 2495-2498 (2010).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Jiangang Zhu, Sahin Kaya  Ozdemir, Yun-Feng Xiao, Lin Li, Lina He, Da-Ren Chen and Lan Yang, &amp;quot;&lt;a href=&#34;http://www.nature.com/nphoton/journal/v4/n1/abs/nphoton.2009.237.html&#34;&gt;On-chip  single nanoparticle detection and sizing by mode splitting in an ultrahigh-Q  microresonato&lt;/a&gt;r,&amp;quot; Nature Photonics 4, 46-49 (2010). &lt;span style=&#34;color:#FF0000&#34;&gt;&lt;em&gt;Highlighted in Physics News, Science Daily,  R&amp;amp;D Magazine, Physorg.com, Photonics.com, Technology Review (published by  MIT), Genetic Engineering &amp;amp; Biotechnology News&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;h2 id=&#34;2009:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2009&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Chun-Hua Dong, Chang-Ling Zou,  Yun-Feng Xiao, Jin-Ming Cui, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/0953-4075/42/21/215401&#34;&gt;Modified  transmission spectrum induced by two-mode interference in a single silica  microsphere&lt;/a&gt;,&amp;quot; J. Phys. B: At. Mol. Opt. Phys. 42, 215401 (2009). &lt;em&gt;Featured in the &lt;a href=&#34;http://iopscience.iop.org/0953-4075/page/Highlights%20of%202009&#34;&gt;Annual Highlights  2009 in J. Phys. B&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Chang-Ling Zou, Yong Yang, Yun-Feng Xiao, Chun-Hua Dong,  Zheng-Fu Han*, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5185160&#34;&gt;Accurately calculating high quality factor of  whispering-gallery modes with boundary element method&lt;/a&gt;,&amp;quot; J. Opt. Soc. Am. A  26(11), 2050-2053 (2009).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Lina He,  Jiangang Zhu, and Lan Yang*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v94/i23/p231115_s1?isAuthorized=no&#34;&gt;Electromagnetically induced transparency-like  effect in a single polydimethylsiloxane-coated silica microtoroid&lt;/a&gt;,&amp;quot; Appl. Phys.  Lett. 94(23), 231115 (2009).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;C.-H. Dong, L He, Y.-F. Xiao*,  V. R. Gaddam, S. K. Ozdemir, Z.-F. Han, G.-C. Guo, and L. Yang*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v94/i23/p231115_s1&#34;&gt;Fabrication of  high-Q polydimethylsiloxane optical microspheres for thermal sensing&lt;/a&gt;,&amp;quot; Appl.  Phys. Lett. 94(23), 231119 (2009).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Lina He, Yun-Feng Xiao*,  Jiangang Zhu, Sahin Kaya Ozdemir, and Lan Yang*, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-17-12-9571&#34;&gt;Oscillatory thermal dynamics  in high-Q PDMS-coated silica toroidal microresonators&lt;/a&gt;,&amp;quot; Opt. Express 17(12),  9571-9581 (2009). &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Chun-Hua Dong,  Chang-Lin Zou, Zheng-Fu Han*, Lan Yang, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/ol/abstract.cfm?URI=ol-34-4-509&#34;&gt;Low-threshold  microlaser in a high-Q asymmetrical microcavity&lt;/a&gt;,&amp;quot; Opt. Lett. 34, 509-511  (2009).&lt;/div&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;h2 id=&#34;2008-and-before:c5a0c2312834bfc6cc602e78c776e73b&#34;&gt;2008 and before&lt;/h2&gt;
+
+&lt;ul class=&#34;smalltext&#34;&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Lina He, Yun-Feng Xiao*, Chunhua  Dong, Jiangang Zhu, Venkat, Gaddam, and Lan Yang*, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v93/i20/p201102_s1&#34;&gt;Compensation of thermal  refraction effect in high-Q toroidal microresonator by polydimethylsiloxane  coating&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 93, 201102 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao*, Sahin Kaya  Ozdemir, Venkat Gaddam, Chun-Hua Dong, Nobuyuki Imoto, and Lan Yang*, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-16-26-21462&#34;&gt;Quantum  nondemolition measurement with optical Kerr effect in an ultra-high-Q  microtoroid&lt;/a&gt;,&amp;quot; Opt. Express 16, 21462-21475 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, J Gao, X-B Zou,  J F McMillan, X Yang, Y-L Chen, Z-F Han, G-C Guo and C W Wong*, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/1367-2630/10/12/123013&#34;&gt;Coupled quantum  electrodynamics in photonic crystal cavities towards controlled phase gate  operations&lt;/a&gt;,&amp;quot; New Journal of Physics 10, 123013 (2008). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Chang-Ling Zou, Yong Yang,  Chun-Hua Dong, Yun-Feng Xiao, Xiao-Wei Wu, Zheng-Fu Han, and Guang-Can Guo,  &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/josab/abstract.cfm?uri=josab-25-11-1895&#34;&gt;Taper-microsphere coupling with numerical calculation of coupled-mode theory&lt;/a&gt;,&amp;quot;  J.  Opt. Soc. of Am. B 25, 1895-1898 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;You-Ling Chen, Yun-Feng Xiao,  Xingxiang Zhou, Xu-Bo Zou, Zheng-Wei Zhou, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/0953-4075/41/17/175503&#34;&gt;Single-photon  transport in a transmission line resonator interacting with two capacitively  coupled Cooper-pair boxes&lt;/a&gt;,&amp;quot; J. Phys. B: At. Mol. Opt. Phys. 41, 175503 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Venkat Gaddam,  and Lan Yang, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-16-17-12538&#34;&gt;Coupled optical microcavities: an enhanced refractometric  sensing configuration&lt;/a&gt;,&amp;quot; Opt. Express 16, 12538-12543 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Bumki Min,  Xiaoshun Jiang, Chun-Hua Dong, and Lan Yang, &amp;quot;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4675187&#34;&gt;Coupling whispering-gallery-mode  microcavities with modal coupling mechanism&lt;/a&gt;,&amp;quot; IEEE Journal of Quantum Electronics  44, 1065-1070 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Chun-Hua Dong, Yun-Feng Xiao,  Yong Yang, Zheng-Fu Han, Guang-Can Guo, and Lan Yang, &amp;quot;&lt;a href=&#34;http://www.col.org.cn/abstract.aspx?id=COL06040300-3&#34;&gt;Directly mapping  whispering-gallery modes in a microsphere through modal coupling and directional emission&lt;/a&gt;,&amp;quot; Chin. Opt. Lett. 6, 300-302 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Chun-Hua Dong, Yun-Feng Xiao,  Zheng-Fu Han, Guang-Can Guo, Xiaoshun Jiang, Limin Tong, Chun Gu, and Hai Ming,  &amp;quot;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4447284&#34;&gt;Low-threshold microlaser in Er:Yb phosphate glass coated microsphere&lt;/a&gt;,&amp;quot; IEEE  Photon. Tech. Lett. 20, 342 (2008).&lt;/div&gt;
+      &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Jie Gao,  Xiaodong Yang, R. Bose, Guang-Can Guo, and Chee Wei Wong, &amp;quot;&lt;a href=&#34;http://apl.aip.org/resource/1/applab/v91/i15/p151105_s1&#34;&gt;Nanocrystals in  silicon photonic crystal standing-wave cavities as spin-photon phase gates for  quantum information processing&lt;/a&gt;,&amp;quot; Appl. Phys. Lett. 91(15), 151105 (2007). &lt;em&gt;Selected for October 22, 2007 issue of Virtual Journal of Nanoscale Science  &amp;amp; Technology, also selected for the October 2007 issue of Virtual Journal  of Quantum Information.&lt;/em&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Chun-Hua Dong,  Zheng-Fu Han, Guang-Can Guo, and Y.-S. Park, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/ol/abstract.cfm?URI=ol-32-6-644&#34;&gt;Directional escape from high-Q  deformed microsphere induced by short pulses of CO2 laser&lt;/a&gt;,&amp;quot; Opt. Lett. 32,  644 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xu-Bo Zou, Wei  Jiang, You-Ling Chen, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i6/e063833&#34;&gt;Analogue to multiple  electromagnetically induced transparency in all-optical drop-filter systems&lt;/a&gt;,&amp;quot;  Phys. Rev. A 75(06), 063833 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xu-Bo Zou, Yun-Feng Xiao,  Shang-Bin Li, Yong Yang, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i6/e064301&#34;&gt;Quantum phase gate through a  dispersive atom-field interaction&lt;/a&gt;,&amp;quot; Phys. Rev. A 75(06), 064301 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xu-Bo Zou, and  Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i5/e054303&#34;&gt;One-step implementation of N-qubit controlled phase gate with  neutral atoms trapped in an optical cavity&lt;/a&gt;,&amp;quot; Phys. Rev. A 75(05), 054303  (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Jing Shu, Xu-Bo Zou, Yun-Feng  Xiao, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i4/e044302&#34;&gt;Quantum phase gate of photonic qubits in a cavity QED  system&lt;/a&gt;,&amp;quot; Phys. Rev. A 75(04), 044302 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xu-Bo Zou, and  Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i1/e014302&#34;&gt;Implementing a conditional N-qubit phase gate in a largely  detuned optical cavity&lt;/a&gt;,&amp;quot; Phys. Rev. A 75(01), 014302 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xu-Bo Zou, and  Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i1/e012310&#34;&gt;Generation of atomic entangled states with selective resonant  interaction in cavity quantum electrodynamics&lt;/a&gt;,&amp;quot; Phys. Rev. A 75(01), 012310  (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong Hu, Yun-Feng Xiao,  Zheng-Wei Zhou, Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v75/i1/e012314&#34;&gt;Controllable coupling of superconducting  transmission line resonator&lt;/a&gt;,&amp;quot; Phys. Rev. A 75(01), 012314 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Yong Yang, Yun-Feng Xiao,  Chun-Hua Dong, Jin-Ming Cui, Zheng-Fu Han, Guo-Dong Li, and Guang-Can Guo,  &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/ao/abstract.cfm?URI=ao-46-31-7590&#34;&gt;Fiber-taper-coupled zeolite cylindrical microcavity with hexagonal cross  section&lt;/a&gt;,&amp;quot; Appl. Opt. 46, 7590 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Xiao-Wei Wu, Yun-Feng Xiao,  Yong Yang, Chun-Hua Dong, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://www.col.org.cn/abstract.aspx?id=COL05110668-3&#34;&gt;Fiber-taper  coupled high-quality-factor planar microdisk&lt;/a&gt;,&amp;quot; Chin. Opt. Lett. 5, 668 (2007). &lt;/div&gt;
+    &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div align=&#34;justify&#34;&gt;Wei Wei, Xiao-Wei Wu, Shao-Jun  Fu, Yong Wang, Yuan-Ji Pei, Yun-Feng Xiao, and Zheng-Fu Han, &amp;quot;&lt;a href=&#34;http://www.col.org.cn/abstract.aspx?id=COL05120703-3&#34;&gt;Fabrication of  SiO2 microdisk optical resonator&lt;/a&gt;,&amp;quot; Chin. Opt. Lett. 5, 703 (2007).&lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Peng Xue and Yun-Feng Xiao,  &amp;quot;&lt;a href=&#34;http://prl.aps.org/abstract/PRL/v97/i14/e140501&#34;&gt;Universal quantum computation in decoherence-free subspace with neutral  atoms&lt;/a&gt;,&amp;quot; Phys. Rev. Lett. 97(14), 140501 (2006).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xu-Bo Zou, Zheng-Fu  Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v74/i4/e044303&#34;&gt;Quantum phase gate in an optical cavity with atomic  cloud&lt;/a&gt;,&amp;quot; Phys. Rev. A 74(04), 044303 (2006).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Jing Shu, Xu-Bo Zou, Yun-Feng  Xiao, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v74/i4/e044301&#34;&gt;Generating four-mode multi-photon entangled states in  cavity QED&lt;/a&gt;,&amp;quot; Phys. Rev. A 74(04), 044301 (2006). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xu-Bo Zou,  Yong Hu, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v74/i3/e032309&#34;&gt;Preparation of microwave  single-photon states via a superconducting circuit&lt;/a&gt;,&amp;quot; Phys. Rev. A 74(03),  032309 (2006). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Zheng-Fu  Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v73/i5/e052324&#34;&gt;Quantum computation without strict strong coupling on  a silicon chip&lt;/a&gt;&amp;quot;, Phys. Rev. A 73(05), 052324 (2006). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Xiu-Min Lin, Zheng-Wei  Zhou, Ming-Yong Ye, Yun-Feng Xiao, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v73/i1/e012323&#34;&gt;One-step implementation  of a multiqubit controlled-phase-flip gate&lt;/a&gt;,�� Phys. Rev. A 73(01), 012323  (2006). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Zheng-Fu  Han, Jie Gao, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/0953-4075/39/3/003&#34;&gt;Generation of multi-atom Dicke states through  the detection of cavity decay&lt;/a&gt;&amp;quot;, J. Phys. B: At. Mol. Opt. Phys. 39, 485 (2006). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yong Yang, Zheng-Fu Han,  Chun-Hua Dong, Yun-Feng Xiao, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://iopscience.iop.org/0256-307X/23/9/025&#34;&gt;Modulated photon emission of  Eu3+ in microsphere cavity&lt;/a&gt;,&amp;quot; Chin. Phys. Lett. 23, 2442 (2006).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Zheng-Fu  Han, Jie Gao, Guang-Can Guo, and Xiao-Qin Su, &amp;quot;&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0378437105001767&#34;&gt;Quantum teleportation of distant  atomic states via the detection of strongly detuned cavity decay&lt;/a&gt;,&amp;quot; Physica A  354, 227 (2005). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Xiu-Min Lin, Zheng-Wei  Zhou, Ming-Yong Ye, Yun-Feng Xiao, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://www.opticsinfobase.org/josab/abstract.cfm?uri=josab-22-7-1547&#34;&gt;Implementing a  high-efficiency quantum-controlled phase gate between long-distance atoms&lt;/a&gt;,&amp;quot;  J.  Opt. Soc. of Am. B 22, 1547 (2005).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Xiu-Min  Lin, Jie Gao, Zheng-Fu Han, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://pra.aps.org/abstract/PRA/v70/i4/e042314&#34;&gt;Realizing quantum controlled  phase flip through cavity QED&lt;/a&gt;,&amp;quot; Phys. Rev. A 70(04), 042314 (2004). &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;li&gt;
+      &lt;div align=&#34;justify&#34;&gt;Yun-Feng Xiao, Zheng-Fu  Han, Yong Yang, and Guang-Can Guo, &amp;quot;&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0375960104010096&#34;&gt;Quantum CPF gates between rare earth ions  through measurement&lt;/a&gt;,&amp;quot; Physics Letters A 330, 137 (2004).&lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;script src=&#34;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/x-mathjax-config&#34;&gt;
+  MathJax.Hub.Config({tex2jax: {inlineMath: [[&#39;$&#39;,&#39;$&#39;], [&#34;\\(&#34;, &#34;\\)&#34;]], processEscapes: true}});
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/research/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/research/</guid>
+      <description>
+
+&lt;h1 id=&#34;research-overview:42f623b3bad309d5d6619d450af47d40&#34;&gt;Research Overview&lt;/h1&gt;
+
+&lt;p&gt;&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;http://www.phy.pku.edu.cn/~yfxiao/image/echo.jpg&#34; width=&#34;300&#34;/&gt;
+&lt;img src=&#34;http://www.phy.pku.edu.cn/~yfxiao/image/toroid.png&#34; width=&#34;300&#34;/&gt;
+&lt;/p&gt;
+The research in our group centers around the optical whispering gallery modes (WGMs) inside the microtoroid cavities.&lt;/p&gt;
+
+&lt;p&gt;Whispering gallery waves were ever studied by Lord Rayleigh in the whispering gallery of St Paul&amp;rsquo;s Cathedral in London, where sound travels around the circumference clinging to the walls. The same phenomenon can be observed in the Echo Wall of the Temple of Heaven in Beijing (picture on the left).&lt;/p&gt;
+
+&lt;p&gt;Whispering gallery sound waves have their counterpart in optics, as light can propagate around the circumference of dielectric microdisks, microspheres, or microtoroids. The microtoroids fabricated on a chip by our group are shown on the left. WGMs possess ultra-high quality factors and very small mode volumes, which provide an excellent platform for greatly enhanced light-matter interactions.&lt;/p&gt;
+
+&lt;h2 id=&#34;cavity-optomechanics-and-cavity-qed:42f623b3bad309d5d6619d450af47d40&#34;&gt;Cavity Optomechanics and Cavity QED&lt;/h2&gt;
+
+&lt;p&gt;&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;http://www.phy.pku.edu.cn/~yfxiao/image/optomechanics1.jpg&#34; width=&#34;300&#34;/&gt;
+&lt;/p&gt;
+Cavity quantum electrodynamics (cavity QED) studies the interaction between the quantized light field and single atoms or other dipoles confined in a cavity; while cavity optomechanics investigates the interaction between cavity photons and microscopic mechanical oscillators. These two types of interactions have many similarities and can both give rise to interesting phenomena which are of importance in fundamental physics and quantum information. Current projects include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Entanglement and squeezing of mechanical states&lt;/li&gt;
+&lt;li&gt;Novel optomechanical systems&lt;/li&gt;
+&lt;li&gt;Many-body quantum simulations with optomechancal systems&lt;/li&gt;
+&lt;li&gt;Cavity-based gyroscope&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;chaotic-microcativies:42f623b3bad309d5d6619d450af47d40&#34;&gt;Chaotic Microcativies&lt;/h2&gt;
+
+&lt;p&gt;&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;http://www.phy.pku.edu.cn/~yfxiao/image/deformed.jpg&#34; width=&#34;300&#34;/&gt;
+&lt;/p&gt;
+Optical microresonators with smoothly deformed boundaries have been discussed widely to test classical and quantum chaos recently. In deformed microresonators, dynamic tunneling from the high-Q regular modes to the chaotic sea plays the key role in the directional emission, which provides a convenient way to excite cavity modes and collect their emission via free space. Our interests include (i) design and realization of ultrahigh-Q deformed microcavities on a silicon chip, (ii) new interesting phenomena, and (iii) novel applications using deformed microcavities.&lt;/p&gt;
+
+&lt;h2 id=&#34;microcavity-biosensing:42f623b3bad309d5d6619d450af47d40&#34;&gt;Microcavity Biosensing&lt;/h2&gt;
+
+&lt;p&gt;&lt;p style=&#34;float:right;&#34;&gt;
+&lt;img src=&#34;http://www.phy.pku.edu.cn/~yfxiao/image/detecting_1.jpg&#34; width=&#34;200&#34;/&gt;
+&lt;/p&gt;
+Label-free microcavity/nanofiber sensors have attracted much attention because they are critical to applications in medicine, environment, and security. Benefieting from high-Q factors and very small volumes of optical whispering gallery modes, single-nanoparticle detection can be achieved by monitoring the frequency shift, mode splitting, or linewidth broadening. In our experiment, we also obtain single-virus response.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/teaching/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/teaching/</guid>
+      <description>
+
+&lt;h2 id=&#34;fall-2011-2014-optics:416f445d9bade50adf875443b512ceeb&#34;&gt;Fall 2011-2014, Optics&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter1.pdf&#34;&gt;Chapter 1 光学导言&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter2.pdf&#34;&gt;Chapter 2 波动光学引言&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter3.pdf&#34;&gt;Chapter 3 光的干涉(1); 光的干涉(2)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter4.pdf&#34;&gt;Chapter 4 光的衍射(1); 光的衍射(2)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter5.pdf&#34;&gt;Chapter 5 傅立叶变换光学 (1); 傅立叶变换光学 (2)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter6.pdf&#34;&gt;Chapter 6 界面光学&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href = &#34;./teaching/chapter7.pdf&#34;&gt;Chapter 7 光的吸收和色散&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中文</title>
+      <link>http://www.phy.pku.edu.cn/~yfxiao/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Wed, 09 Mar 2016 14:48:20 +0800</pubDate>
+      
+      <guid>http://www.phy.pku.edu.cn/~yfxiao/%E4%B8%AD%E6%96%87/</guid>
+      <description>
+
+&lt;h2 id=&#34;欢迎:df8aa223cec7f2051ad27c4eb7ec6175&#34;&gt;欢迎&lt;/h2&gt;
+
+&lt;p&gt;欢迎访问北京大学微腔光子学和量子光学研究组！我们致力于芯片上光学微腔的实验和理论研究，利用回音壁模式的品质因子高和模式体积小等特点，该类光学微腔可以应用于量子光学、非线性光学、腔光力学、低阈值激光器、高灵敏度生物运动微型传感器和量子信息处理等前沿交叉学科的研究。&lt;/p&gt;
+
+&lt;p&gt;本课题组欢迎博士后，访问学者加盟。每年招收1-2名硕博研究生，接纳2-4名本科生参加科研。&lt;/p&gt;
+
+&lt;p&gt;博士后、访问学者申请人应有以下一项或者多项研究背景：物理、应用物理、电子工程、生物和材料科学。尤其欢迎具有生物学或者材料科学背景的硕士、博士加入我们课题组。肖云峰的联系方式是 &lt;a href = &#34;mailto:yfxiao@pku.edu.cn&#34;&gt;yfxiao[at]pku[dot]edu[dot]cn&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
